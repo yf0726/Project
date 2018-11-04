@@ -1,6 +1,7 @@
 # Title
 
-Unveiling ingredient combinations
+Title: Unveiling ingredient combinations
+Team members: Yan Fu, Kristijan Lopatichki, Zhechen Su
 
 # Abstract
 
