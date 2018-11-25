@@ -1,3 +1,40 @@
+# Update for Milestone2
+
+
+# The structure of repo
+
+Master Branch
+|
+|--Input data: allrecipes_df.csv food_df.csv  foodnetwork_df.csv  TotalHtml2Page.csv yummly_df.csv 
+|
+|--Parsing files: allrecipes_parsing.py  food_parsing.py  foodnetwork_parsing.py  move_webpages_to_folders.py yummly_parsing.py
+|
+|--Milestone_2.ipynb
+
+
+`Input data` folder include dataset we download and extract through .py in Parsing files;
+`Parsing files` folder include 5 parsing codes with comments. We put them together to simplify our notebook and make more space for analysis;
+`Milestone_2.ipynb` clean and analyze dataset we have and clearly show our thought.
+
+# Pipeline of ML2
+![Pipeline of ML2](https://raw.githubusercontent.com/sting1000/img/master/Pipeline%20of%20Project%20Milestone%202.png)
+
+# What's next
+
+1. Ingredient pairs
+After having a view of ingredients, we need to think about how to define pairs of ingredient. The ingredient should be the key ingredients in each recipy, such as in `Chicken Curry Pasta`, pairs are (chicken, potato), (potato, pasta), (chicken, pasta). Base on this particular stucture which is quite similar to human society, we are going to import `NLTK`, a Natural Language Toolkit or `pyvis.network` to build the network of ingredient. And according to results, analyze the cluster and relation to recipe/region/health. 
+
+2. Regional Differences
+By analyze the ingredient of regional recipes, we find out key ingredients vary a lot. For example, in Chinese cuisine, three most common used items are soy source, ginger and garlic. In France, however, the top 3 are butter, salt and milk. Such big difference in ingredients makes cooking methods various as well as nutrition feature. and as a result recipes appear in thousand of patterns. With the help of regional difference, we can explore people's eating habits and preference. Is ingredient-based relationship geographical, climatic or cultural?
+
+3. Relate to Health
+After having a conlusion about reginal cuisine's differnce, We want to know does a relationship exist between recipes and health for a certain region. Threfore, it is necessary to measure how healthy some repcipes are. It should be intuitive and take into account the main aspects of nutrition. 
+
+We import the Nutri-Score presented by OpenFood. It is a system of notes from A(good) to E(bad) on the front of food products to allow for a simple comparison of the nutritional quality of products. [This website](https://fr.openfoodfacts.org/score-nutritionnel-experimental-france) shows details about formula for calculating the nutritional score, the thresholds of the notes and various adaptation proposals. The advantage is that it's very easy to understand for a customer who has no knowledge in nutrition.
+
+---
+
+
 # Title
 
 Title: Unveiling ingredient combinations
