@@ -51,9 +51,3 @@ Analyze and organize data structure. In this part, we are going to enrich, filte
   
 `2018.11.20 - 2018.11.25 `
 Create future plan in notebook. Review and check the work we have done. Discuss the methods and write the specific structure of functions we need to use next. Comment them then make a clear target we are going to achieve at the end.
-
-
-# Questions for TAa
-
-* Is the content we have enough to make a project? Or will it be impractical in some questions?
-* Do you think we should look for additional data sources and if so, do you have any suggestions in mind?
