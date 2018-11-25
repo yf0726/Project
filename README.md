@@ -36,8 +36,7 @@ After having a view of ingredients, we need to think about how to define pairs o
 By analyzing the ingredient of regional recipes, we found out that key ingredients vary a lot. For example in Chinese cuisine, the three most common used items are soy sauce, ginger and garlic. In France, however, the top three ingredients are butter, salt and milk. Such big difference in ingredients makes cooking methods various as well as nutrition features. As a result recipes appear in thousands of patterns. With the help of regional difference, we can explore people's eating habits and preferences. Is ingredient-based relationship geographical, climatic or cultural?
 
 3. Relate to Health
-After having a conlusion about regional cuisine difference, we want to know if a relationship exists between recipes and health for a certain region. Threfore, it is necessary to measure how healthy some repcipes are. It should be intuitive and take into account the main aspects of nutrition to discover this. 
-
+After having a conlusion about regional cuisine difference, we want to know if a relationship exists between recipes and health for a certain region. Threfore, it is necessary to measure how healthy some repcipes are. It should be intuitive and take into account the main aspects of nutrition to discover this.
 We import the Nutri-Score presented by OpenFood. It is a system of notes from A(good) to E(bad) on the front of food products to allow for a simple comparison of the nutritional quality of products. [This website](https://fr.openfoodfacts.org/score-nutritionnel-experimental-france) shows details about formula for calculating the nutritional score, the thresholds of the notes and various adaptation proposals. The advantage is that it's very easy to understand for a customer who has no knowledge in nutrition.
 
 ---
