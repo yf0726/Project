@@ -12,19 +12,17 @@ Team members: Yan Fu, Kristijan Lopatichki, Zhechen Su
 # The structure of repo
 
 Master Branch
-|
-|--Input data: allrecipes_df.csv food_df.csv  foodnetwork_df.csv  TotalHtml2Page.csv yummly_df.csv 
-|
-|--Parsing files: allrecipes_parsing.py  food_parsing.py  foodnetwork_parsing.py  move_webpages_to_folders.py yummly_parsing.py
-|
-|--Milestone_2.ipynb
+1. Input data: allrecipes_df.csv food_df.csv, foodnetwork_df.csv, TotalHtml2Page.csv, yummly_df.csv 
+2. Parsing files: allrecipes_parsing.py, food_parsing.py, foodnetwork_parsing.py, move_webpages_to_folders.py, yummly_parsing.py
+3. Milestone_2.ipynb
 
 
 `Input data` folder include dataset we download and extract through .py in Parsing files;
 
-`Parsing files` folder include 5 parsing codes with comments. We put them together to simplify our notebook and make more space for analysis;
+`Parsing files` folder include 1 preprocessing and 4 web scraping code with comments. We put them together to make our notebook clear and make more space for analysis;
 
 `Milestone_2.ipynb` clean and analyze dataset we have and clearly show our thought.
+
 
 # Pipeline of ML2
 ![Pipeline of ML2](https://raw.githubusercontent.com/sting1000/img/master/Pipeline%20of%20Project%20Milestone%202.png)
