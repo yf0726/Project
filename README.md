@@ -1,3 +1,11 @@
+# Title
+
+Title: Unveiling ingredient combinations
+
+Team members: Yan Fu, Kristijan Lopatichki, Zhechen Su
+
+---
+
 # Update for Milestone2
 
 
@@ -13,7 +21,9 @@ Master Branch
 
 
 `Input data` folder include dataset we download and extract through .py in Parsing files;
+
 `Parsing files` folder include 5 parsing codes with comments. We put them together to simplify our notebook and make more space for analysis;
+
 `Milestone_2.ipynb` clean and analyze dataset we have and clearly show our thought.
 
 # Pipeline of ML2
@@ -34,12 +44,6 @@ We import the Nutri-Score presented by OpenFood. It is a system of notes from A(
 
 ---
 
-
-# Title
-
-Title: Unveiling ingredient combinations
-
-Team members: Yan Fu, Kristijan Lopatichki, Zhechen Su
 
 # Abstract
 
