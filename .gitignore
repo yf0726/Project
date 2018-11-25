@@ -1,2 +1,5 @@
 
 *.html
+dataset/OpenFoodCleaned.csv
+dataset/openfood.csv
+Input data/OpenFoodCleaned.csv
