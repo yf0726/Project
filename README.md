@@ -59,6 +59,9 @@ Master Branch
 3. FINALNOTEBOOK.ipynb: The final notebook for this project.
 
 # Contribution of Groupmember
+
+The contribution below does not equal to all one has done. It just shows the main part one is in charge of. Other parts not mentioned, eg data cleaning, textual writing and jupyter notebook are done by a whole group.
+
 Yan Fu: web scraping (foodnetwork), WHO dataset analysis and visualization
 
 Kristijan Lopatichki: 
