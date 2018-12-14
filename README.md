@@ -4,6 +4,7 @@ Title: Unveiling ingredient combinations
 
 Team members: Yan Fu, Kristijan Lopatichki, Zhechen Su
 
+# Link to the webpage here
 ---
 
 # Abstract
@@ -33,18 +34,22 @@ Cooking recipe: 2.53 GB of zipped data and concludes more than 93,000 html web p
 
 http://infolab.stanford.edu/~west1/from-cookies-to-cooks/recipePages.zip
 
-Open food dataset: 1.6 GB in csv format. Open Food Facts is a free and open dataset gathering information and data on food products from around the world. We can find the name of a product, ingredients, countries and also nutrition facts. We use the open food dataset when we want to know the country of certain recipes from Cooking recipe dataset as well as the basic information of each ingredient in recipes. 
-
-https://world.openfoodfacts.org/data
-
 Global Health Observatory data repository from WHO: The global health observatory data repository is very comprehensive and it includes data sets on various perspectives, including statistics from all countries on non communicable disease (NCD), prevalence of obesity, raised blood pressure and raised cholesterol etc. These data sets can be downloaded in .csv format or json format. 
 
 http://apps.who.int/gho/data/node.home
 
 Through combining the information from these datasets, we can obtain ingredients, culinary techniques, nutritional facts, popularity and geographical distribution of cuisines worldwide. And with the dataset from WHO, we can even go further to analyze the possible relationship between recipes and public health.
 
-# Pipeline
-(https://raw.githubusercontent.com/sting1000/img/master/Pipeline%20of%20Project%20Milestone%202.png)
+# Result
+
+In this project, we achieved:
+
+1. Scraped 86607 recipes from allrecipes, food, foodnetwork and yummly,and created csv files with useful information ( including title of dishes, nutritions, ingredients, cooking time, cuisine type etc.). Cleaning data(especially the ingredients) using NLP.
+2. Find out the most popular recipes and ingredients for each cuisines.
+3. Find connections between cuisines by their shared ingredients, using Jaccard similarity, networkx and t-SNE.
+4. Find out regional features for cuisines and connect cuisine nutritients with public health data.
+5. Show the cooking time difference in each cuisine.
+
 
 # The structure of repo
 
@@ -55,5 +60,7 @@ Master Branch
 
 # Contribution of Groupmember
 Yan Fu: web scraping (foodnetwork), WHO dataset analysis and visualization
+
 Kristijan Lopatichki: 
+
 Zhechen Su: 
