@@ -11,13 +11,13 @@ Team members: Yan Fu, Kristijan Lopatichki, Zhechen Su
 
 Food is nothing less than an essential part of life and a major global economic force. Different cuisines use different ingredients and sometimes certain pairs of ingredients have really high frequency in worldwide recipes. We want to explore the traditional pairings we know, while also revealing non-traditional and surprising combinations in different cuisines through our analysis. 
 
-In this project, we define ‘key ingredient’ as the most commonly used ingredient; and ‘ingredient combination’ as pairs of ingredients that are always used together. We investigate on popularity of recipes and cooking methods and ingredient combinations to know more food characteristics. These characteristics are not only interesting, but they also provide us with a new perspective on food patterns which is closely related to public health, revealing the possible relationship between food ingredients and public health data.
+In this project, we define ‘key ingredient’ as the most commonly used ingredient. We investigate on popularity of recipes and ingredients to know more food characteristics. These characteristics are not only interesting, but they also provide us with a new perspective on food patterns which is closely related to public health, revealing the possible relationship between food ingredients and public health data.
 
-Mainly we are going to use three data sets: `cooking recipe`, `open food dataset` and `Global Health Observatory data repository`. We can obtain recipe ingredients, cooking methods, countries and regional health data from these data sets and our analysis will be based on them.
+Mainly we are going to use these data sets: `cooking recipe` and `Global Health Observatory data repository`. We can obtain recipe ingredients, countries and regional health data from these data sets and our analysis will be based on them.
 
 # Research questions
 
-* What are the most popular recipes? Do popular cuisines have special preference on cooking method, ingredients or preparation time?
+* What are the most popular recipes? Do popular cuisines have special preference on ingredients or preparation time?
 
 * What are the key ingredients for different cuisines and recipes? 
 
