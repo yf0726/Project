@@ -66,4 +66,5 @@ Yan Fu: web scraping (foodnetwork), WHO dataset analysis and visualization
 
 Kristijan Lopatichki: web scraping (allrecipes), networkx analysis, t-SNE clustering and visualization
 
-Zhechen Su: 
+Zhechen Su: web scraping (Yummly, food), text processing(Ingredient), website and poster design
+
