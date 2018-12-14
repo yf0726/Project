@@ -44,7 +44,7 @@ Through combining the information from these datasets, we can obtain ingredients
 
 In this project, we achieved:
 
-1. Scraped 86607 recipes from allrecipes, food, foodnetwork and yummly,and created csv files with useful information ( including title of dishes, nutritions, ingredients, cooking time, cuisine type etc.). Cleaning data(especially the ingredients) using NLP.
+1. Scraped 86607 recipes from allrecipes, food, foodnetwork and yummly, and created csv files with useful information (including title of dishes, nutritions, ingredients, cooking time, cuisine type etc.). Cleaning data(especially the ingredients) using NLP.
 2. Find out the most popular recipes and ingredients for each cuisines.
 3. Find connections between cuisines by their shared ingredients, using Jaccard similarity, networkx and t-SNE.
 4. Find out regional features for cuisines and connect cuisine nutritients with public health data.
@@ -64,6 +64,6 @@ The contribution below does not equal to all one has done. It just shows the mai
 
 Yan Fu: web scraping (foodnetwork), WHO dataset analysis and visualization
 
-Kristijan Lopatichki: 
+Kristijan Lopatichki: web scraping (allrecipes), networkx analysis, t-SNE clustering and visualization
 
 Zhechen Su: 
