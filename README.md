@@ -27,7 +27,7 @@ Mainly we are going to use these data sets: `cooking recipe` and `Global Health 
 
 # Dataset
 
-In this project, we decide to use `cooking recipes` as our main dataset, and we will also combine the data from `open food dataset` and `Global Health Observatory data repository`. 
+In this project, we decide to use `cooking recipes` as our main dataset, and we will also combine the data from `Global Health Observatory data repository`. 
 
 Cooking recipe: 2.53 GB of zipped data and concludes more than 93,000 html web pages on recipes. From each web page we infer information which includes the name of the dish, preparation time, the ingredients, directions for preparation and nutritional facts. Also, we notice the number of reviews differ between recipes, and we think we can use the number of reviews as a proof for popularity.
 
