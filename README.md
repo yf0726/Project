@@ -61,7 +61,7 @@ Master Branch
 
 The contribution below does not equal to all one has done. It just shows the main part one is in charge of. Other parts not mentioned, eg data cleaning, textual writing and jupyter notebook are done by a whole group.
 
-Yan Fu: web scraping (foodnetwork), WHO dataset analysis and visualization
+Yan Fu: web scraping (foodnetwork), WHO dataset analysis and visualization, WordCloud counting and visualization
 
 Kristijan Lopatichki: web scraping (allrecipes), networkx analysis, t-SNE clustering and visualization
 
