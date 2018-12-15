@@ -1,11 +1,10 @@
-# Title
-
-Title: Unveiling ingredient combinations
+# Title: Unveiling Recipe Truth
 
 Team members: Yan Fu, Kristijan Lopatichki, Zhechen Su
 
-# Link to the webpage here
----
+# Data story: 
+
+Explore [Unveiling Recipe Truth](http://112.74.61.146/)!
 
 # Abstract
 
